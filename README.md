@@ -35,6 +35,7 @@ A simple **Todo List Application** built using **HTML**, **CSS**, **JavaScript**
 
 ### File Structure
     todo-website/
+    ├── node_modules
     ├── public/
     │   ├── index.html        # Main HTML file
     │   ├── style.css         # Stylesheet
